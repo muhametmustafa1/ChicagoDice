@@ -1,0 +1,10 @@
+The rules to the dice game Chicago
+
+Number of Players: 2-6 
+
+
+You Will Need: 2 Dice 
+
+To Play: There are eleven rounds numbered 2 -12. In each round the player tries to roll and score the number of the round, the numbers being the combinations possible with 2 dice.
+
+If a player throws the correct number for that round they score 1 point. If they throw any other number they don’t score. The highest total after 11 rounds wins the game
